@@ -1,5 +1,3 @@
-
-## Alex Rybicki
 # About Me
 <img
   src="assets/me.jpg"
