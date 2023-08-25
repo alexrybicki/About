@@ -1,4 +1,4 @@
-# About Me
+## About Me
 <img
   src="assets/me.jpg"
   alt="Alex Rybicki"
