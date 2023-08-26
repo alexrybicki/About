@@ -3,7 +3,7 @@
   src="assets/me.jpg"
   alt="Alex Rybicki"
   title="Alex Rybicki"
-  style="  padding: 15px 15px 15px;  background-color: white;  box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4); -moz-box-shadow: 0 1px 2px rgba(34,25,25,0.4); -webkit-box-              shadow: 0 1px 3px rgba(34, 25, 25, 0.4);">
+  style="  padding: 15px 15px 15px;  background-color: white;  box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4); -moz-box-shadow: 0 1px 2px rgba(34,25,25,0.4); -webkit-box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);">
 
   I am a full-stack web developer specializing in custom web applications and APIs. I have extensive experience independently building complex web portals from scratch using HTML5, CSS, JavaScript, and jQuery. I am proficient in data management tools like SQL, JSON, and DataTables. 
 
