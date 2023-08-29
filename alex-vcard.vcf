@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Alex Rybicki
+N:Rybicki;Alex;;;
+EMAIL;TYPE=INTERNET:alex@rybicki.dev
+TEL;TYPE=WORK:+1 530-830-2088
+item1.URL:alex.rybicki.dev
+item1.X-ABLabel:Website
+NOTE:Gender: Male
+END:VCARD
