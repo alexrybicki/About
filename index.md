@@ -41,3 +41,5 @@ Email: [alex@rybicki.dev](mailto:alex@rybicki.dev)
 LinkedIn: [https://www.linkedin.com/in/alex-rybicki-59851b154/](https://www.linkedin.com/in/alex-rybicki-59851b154/)
 
 GitHub: [https://github.com/alexrybicki](https://github.com/alexrybicki)
+
+Add me to your contacts with a vCard: [Scan](assets/alex-vcard.png) or [Download](assets/alex-vcard.vcf)
