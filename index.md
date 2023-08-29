@@ -1,4 +1,3 @@
-## About Me
 
 <div class="scene scene--card">
   <div class="card">
@@ -24,6 +23,8 @@
     </div>
   </div>
 </div>
+
+## About Me
 
 I am a full-stack web developer specializing in custom web applications and APIs. I have extensive experience independently building complex web portals from scratch using HTML5, CSS, JavaScript, and jQuery. I am proficient in data management tools like SQL, JSON, and DataTables.
 
