@@ -37,5 +37,7 @@ I'm a lefty and enjoy merging the intellectual with the artistic.
 My passion is using my skills to create elegant solutions that meet the specific needs of my clients.
 
 Email: [alex@rybicki.dev](mailto:alex@rybicki.dev)
+
 LinkedIn: [https://www.linkedin.com/in/alex-rybicki-59851b154/](https://www.linkedin.com/in/alex-rybicki-59851b154/)
+
 GitHub: [https://github.com/alexrybicki](https://github.com/alexrybicki)
