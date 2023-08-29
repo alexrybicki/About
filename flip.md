@@ -7,11 +7,13 @@
           src="assets/me.jpg"
           alt="Alex Rybicki"
           title="Alex Rybicki"
-          style="  padding: 15px 15px 15px;  background-color: white;  box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4); -moz-box-shadow: 0 1px 2px rgba(34,25,25,0.4); -webkit-box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);">
+          style="  padding: 15px 15px 15px;  background-color: white;  box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4); 
+                -moz-box-shadow: 0 1px 2px rgba(34,25,25,0.4); 
+                -webkit-box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);">
     </div>
     <div class="card__face card__face--back">
       <img
-        src="assets/alex.rybicki.dev.png"
+        src="assets/QR-alex.rybicki.dev.png"
         alt="alex.rybicki.dev"
         title="alex.rybicki.dev"
         style="padding: 15px 15px 15px;  background-color: white;  box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
