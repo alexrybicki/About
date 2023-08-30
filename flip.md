@@ -13,7 +13,7 @@
     </div>
     <div class="card__face card__face--back">
       <img
-        src="assets/QR-alex.rybicki.dev.png"
+        src="assets/Static-vCard460drk.png"
         alt="alex.rybicki.dev"
         title="alex.rybicki.dev"
         style="padding: 15px 15px 15px;  background-color: white;  box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
