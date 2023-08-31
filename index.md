@@ -4,8 +4,8 @@
     <div class="card__face card__face--front">
       <img
           src="assets/me.jpg"
-          alt="Alex Rybicki"
-          title="Alex Rybicki"
+          alt="Click me"
+          title="Click me"
           style="  padding: 15px 15px 15px;  background-color: white;
                 box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4); 
                 -moz-box-shadow: 0 1px 2px rgba(34,25,25,0.4); 
