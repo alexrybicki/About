@@ -28,7 +28,7 @@
 
 I am a full-stack web developer specializing in custom web applications and APIs. I have extensive experience independently building complex web portals from scratch using HTML5, CSS, JavaScript, and jQuery. I am proficient in data management tools like SQL, JSON, and DataTables.
 
-I take pride in creating intuitive user interfaces to meet my clients' exact specifications, including automating systems like email responses, account creation, and payment processing. I have worked closely with backend engineers to build robust APIs from the ground up using technologies like Delphi DataSnap.
+I take pride in creating intuitive user interfaces to meet my clients' exacting specifications, including automating systems like email responses, account creation, and payment processing. I have worked closely with backend engineers to build robust APIs from the ground up using technologies like Delphi DataSnap.
 I also have a proven track record of independently developing internal web applications and interfaces for hardware systems. I utilize development tools like Embarcadero RAD Studio, Visual Studio Code, and GitHub for version control.
 
 Outside of work, I enjoy hiking, weight training, photography, drawing, listening to intellectual podcasts, solving complex problems, learning how things work, overcoming challenges through creativity and perseverance, and learning new technologies that help me improve as a developer. I also strive to master soft skills and connecting with people on a personal level.
