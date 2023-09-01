@@ -28,13 +28,13 @@
 
 I am a full-stack web developer specializing in custom web applications and APIs. I have extensive experience independently building complex web portals from scratch using HTML5, CSS, JavaScript, and jQuery. I am proficient in data management tools like SQL, JSON, and DataTables.
 
-I take pride in creating intuitive, responsive, and cross-browser-compatible websites and user interfaces to meet my clients' exacting specifications, including automating systems like email responses, account creation, and payment processing. I have worked closely with backend engineers to build robust APIs from the ground up using technologies like Delphi DataSnap.
+My forte is in fashioning intuitive, responsive, and cross-browser-compatible websites and user interfaces to meet my clients' exacting specifications. Working closely with backend engineers, I've built robust APIs from the ground up using technologies like Delphi DataSnap. Applications included the automation of systems such as email responses, account creation, and payment processing.
 
-I also have a proven track record of independently developing internal web applications and interfaces for hardware systems.
+Further achievements extend to the independent development of internal web applications and interfaces for hardware systems. 
 
-I utilize development tools like Embarcadero RAD Studio, Visual Studio Code, and GitHub (Git) for version control. I utilize Linux and Windows operating systems and tools with equal proficiency.
+I utilize development tools like Embarcadero RAD Studio, Visual Studio Code, and GitHub (Git) for version control. I use Linux and Windows operating systems and tools with equal proficiency, and I harness AI technologies such as ChatGPT to streamline workflows.
 
-I have a passion and love for learning, problem-solving, and being a self-starter, am someone who is dedicated to their mission, values, and making a meaningful impact.
+I possess a deep passion for learning, problem-solving, and taking initiative. I am dedicated to my mission, values, and the pursuit of a meaningful impact.
 
 Outside of work, I enjoy hiking, weight training, photography, drawing, listening to intellectual podcasts, solving complex problems, learning how things work, overcoming challenges through creativity and perseverance, and learning new technologies that help me improve as a developer. 
 
