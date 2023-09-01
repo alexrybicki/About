@@ -44,8 +44,8 @@ My passion is using my skills to create elegant solutions that meet the specific
 
 Email: [alex@rybicki.dev](mailto:alex@rybicki.dev)
 
-LinkedIn: [https://www.linkedin.com/in/Alex-Rybicki](https://www.linkedin.com/in/alex-rybicki)
+LinkedIn: [https://www.linkedin.com/in/alex-rybicki](https://www.linkedin.com/in/alex-rybicki)
 
-GitHub: [https://github.com/AlexRybicki](https://github.com/alexrybicki)
+GitHub: [https://github.com/alexrybicki](https://github.com/alexrybicki)
 
 Add me to your contacts with a vCard: [Scan](assets/alex-vcard.png) or [Download](assets/alex-vcard.vcf)
