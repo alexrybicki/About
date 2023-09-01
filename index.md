@@ -30,11 +30,15 @@ I am a full-stack web developer specializing in custom web applications and APIs
 
 I take pride in creating intuitive, responsive, and cross-browser-compatible websites and user interfaces to meet my clients' exacting specifications, including automating systems like email responses, account creation, and payment processing. I have worked closely with backend engineers to build robust APIs from the ground up using technologies like Delphi DataSnap.
 
-I also have a proven track record of independently developing internal web applications and interfaces for hardware systems. I have a passion and love for learning, problem-solving, and being a self-starter, am someone who is dedicated to their mission, values, and making a meaningful impact.
+I also have a proven track record of independently developing internal web applications and interfaces for hardware systems.
 
 I utilize development tools like Embarcadero RAD Studio, Visual Studio Code, and GitHub (Git) for version control. I utilize Linux and Windows operating systems and tools with equal proficiency.
 
-Outside of work, I enjoy hiking, weight training, photography, drawing, listening to intellectual podcasts, solving complex problems, learning how things work, overcoming challenges through creativity and perseverance, and learning new technologies that help me improve as a developer. I also strive to master soft skills and connecting with people on a personal level.
+I have a passion and love for learning, problem-solving, and being a self-starter, am someone who is dedicated to their mission, values, and making a meaningful impact.
+
+Outside of work, I enjoy hiking, weight training, photography, drawing, listening to intellectual podcasts, solving complex problems, learning how things work, overcoming challenges through creativity and perseverance, and learning new technologies that help me improve as a developer. 
+
+I also strive to master soft skills and connecting with people on a personal level.
 
 I'm a lefty and enjoy merging the intellectual with the artistic.
 
