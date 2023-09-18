@@ -44,7 +44,7 @@ I'm a lefty and enjoy merging the intellectual with the artistic.
 
 My passion is using my skills to create elegant solutions that meet the specific needs of my clients.
 
-## Links
+### Links
 
 Email: [alex@rybicki.dev](mailto:alex@rybicki.dev)
 
