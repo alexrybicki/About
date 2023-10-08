@@ -38,7 +38,7 @@ Development tools I have utilized include Embarcadero RAD Studio, Visual Studio 
 
 I possess a deep passion for learning, problem-solving, and taking initiative. I am dedicated to my mission, values, and the pursuit of a meaningful impact. I also strive to master soft skills and connecting with people on a personal level.
 
-Outside of work, I enjoy hiking, weight training, photography, drawing, listening to intellectual podcasts, solving complex problems, learning how things work, overcoming challenges through creativity and perseverance, and learning new technologies that help me improve as a developer. 
+Outside of work, I enjoy hiking, weight training, baking, cooking, photography, drawing, listening to intellectual podcasts, solving complex problems, learning how things work, overcoming challenges through creativity and perseverance, and learning new technologies that help me improve as a developer. 
 
 I'm a lefty and enjoy merging the intellectual with the artistic.
 
