@@ -34,7 +34,7 @@ I am a full-stack web developer specializing in custom web applications and APIs
 
 My forte is in fashioning intuitive, responsive, and cross-browser-compatible websites and user interfaces to meet my clients' exacting specifications. Working closely with backend engineers, I've built robust APIs from the ground up using technologies like Delphi DataSnap, including the automation of email responses, account creation, and payment processing. Further achievements extend to the independent development of internal web applications and interfaces for hardware systems. 
 
-Development tools I have utilized include Embarcadero RAD Studio, Visual Studio Code, and GitHub (Git) for version control. I use Linux and Windows operating systems and tools with equal proficiency, and I harness AI technologies such as ChatGPT to streamline workflows.
+Development tools I have utilized include Embarcadero RAD Studio, Visual Studio Code, and GitHub (Git) for version control. I use Linux and Windows operating systems and tools with equal proficiency, and I harness AI technologies such as ChatGPT, Gemini, and Copilot to streamline workflows.
 
 I possess a deep passion for learning, problem-solving, and taking initiative. I am dedicated to my mission, values, and the pursuit of a meaningful impact. I also strive to master soft skills and connecting with people on a personal level.
 
